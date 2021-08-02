@@ -1,0 +1,4 @@
+basicTest/BasicJunit.java
+ basicTest.BasicJunit
+basicTest/BasicAppium.java
+ basicTest.BasicAppium
